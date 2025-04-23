@@ -16,18 +16,18 @@
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/CASEYRHODES"><img title="Author" src="https://img.shields.io/badge/CASEYRHODES-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/D9hokK6OHS5C3eLEwPKjsJ"><img title="Author" src="https://img.shields.io/badge/GROUP-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/263771629199"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
+<a href="https://github.com/CASEYRHODES"><img title="Author" src="https://tinyurl.com/258wo7yz/badge/Mr Ntando ofc-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/D9hokK6OHS5C3eLEwPKjsJ"><img title="Author" src="https://tinyurl.com/258wo7yz/badge/GROUP-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/263771629199"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
 <p/>
 
  <p align="center">
   <a href="https://kg-site-support.vercel.app/">
-    <img src="https://img.shields.io/badge/NTANDOOFC WEBSITE-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Generate Session ID"/>
+    <img src="https://tinyurl.com/258wo7yz/badge/NTANDOOFC WEBSITE-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Generate Session ID"/>
   </a>
    
 <p align="center">
 <a href="https://github.com/mrntandooofc/SPIDER-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrntandooofc/SPIDER-XMD?color=white&style=flat-square"></a>
 <a href="https://github.com/mrntandooofc/SPIDER-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mrntandooofc/SPIDER-XMD?color=yellow&style=flat-square"></a>
-<a href="https://github.com/mrntandooofc/SPIDER-XMD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mrntandooofc/SPIDER-XMD?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/mrntandooofc/SPIDER-XMD/watchers"><img title="Watching" src="https://tinyurl.com/258wo7yz/github/watchers/mrntandooofc/SPIDER-XMD?label=Watchers&color=red&style=flat-square"></a>
 <a href="https://github.com/Janithsadanuwan/Queen-Nilu-Md/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Janithsadanuwan/Queen-Nilu-Md/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
         <a href = ""><img alt="Ntando Tools" src="https://img.shields.io/youtube/channel/subscribers/UCjDKRYcwd5ZIpGICcVVL96Q" target="_blank" /></a>
